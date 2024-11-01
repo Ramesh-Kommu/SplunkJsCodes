@@ -1,0 +1,3 @@
+# steps to login to the splunk
+User need to open splunk login page
+user need to give the credentials
